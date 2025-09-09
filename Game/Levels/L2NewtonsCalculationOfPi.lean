@@ -21,7 +21,7 @@ $ \\binom{n}{0} + \\binom{n}{1}x + \\binom{n}{2}x^2 + \\cdots + \\binom{n}{n}x^n
 [![Pascal's Triangle](images/Yanghui_triangle.jpg)](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
 
 
-**SOCRATES:** Excellent! And do you know sigma notation?
+**SOCRATES: Excellent! And do you know sigma notation?
 
 **SIMPLICIO:** I think so. I could’ve written  that same thing as $\\sum_{k=0}^{n} \\binom{n}{k} x^k$. In general, if you have some function $f: \\mathbb{N} \\to \\mathbb{R}$, and you want express $f(a)+f(a+1)+…+f(b)$, that is, the sum of $f(k)$ as $k$ ranges from some integer $a$ up to some other integer $b$, you can write it as $\\sum_{k=a}^{b} f(k)$.
 

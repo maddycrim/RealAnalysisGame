@@ -29,7 +29,7 @@ Statement (x : ℝ) (h : x = 5) : x = 5 := by
 NewTactic apply
 
 Conclusion "
-Perfect! You've completed your first Lean proof involving real numbers.
+Perfect!!!!!!! You've completed your first Lean proof involving real numbers.
 
 Remember: the `apply` tactic is used when you have what you need to prove the goal. Look at the top right: your list of tactics now includes `apply`, and if you forget how it works or what it does, just click on it for a reminder.
 "
